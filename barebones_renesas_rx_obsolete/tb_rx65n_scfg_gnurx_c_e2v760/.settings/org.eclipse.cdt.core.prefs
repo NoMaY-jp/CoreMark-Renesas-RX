@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.renesas.cdt.managedbuild.gcc.rx.configuration.debug.887759396/BUILDARTIFACTFILENAME/delimiter=;
+environment/project/com.renesas.cdt.managedbuild.gcc.rx.configuration.debug.887759396/BUILDARTIFACTFILENAME/operation=append
+environment/project/com.renesas.cdt.managedbuild.gcc.rx.configuration.debug.887759396/BUILDARTIFACTFILENAME/value=${BuildArtifactFileName}
+environment/project/com.renesas.cdt.managedbuild.gcc.rx.configuration.debug.887759396/append=true
+environment/project/com.renesas.cdt.managedbuild.gcc.rx.configuration.debug.887759396/appendContributed=true
