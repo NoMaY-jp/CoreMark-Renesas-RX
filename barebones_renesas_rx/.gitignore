@@ -9,24 +9,21 @@ IORegisterSetting.xml
 
 # Ignore build results and automatically created unnecessary setting files by EWRX
 Debug/
-RTOSDemo.custom_argvars
-RTOSDemo.dep
-RTOSDemo.ewt
-RTOSDemo.crun
-RTOSDemo.dbgdt
-RTOSDemo.Debug.cspy.bat
-RTOSDemo.Debug.cspy.ps1
-RTOSDemo.Debug.driver.xcl
-RTOSDemo.Debug.general.xcl
-RTOSDemo.wsdt
+*.custom_argvars
+*.dep
+*.ewt
+*.crun
+*.dbgdt
+*.Debug.cspy.bat
+*.Debug.cspy.ps1
+*.Debug.driver.xcl
+*.Debug.general.xcl
+*.wsdt
 
 # Ignore build results and automatically created unnecessary setting files by CS+
 DefaultBuild/
-RTOSDemo.*.mtud
+*.*.mtud
+*.rcpe
 
-# Ignore PDF documents of FIT API
-r01an1685*.pdf
-r01an1721*.pdf
-r01an1815*.pdf
-r01an1683*.pdf
-r01an1819*.pdf
+# Ignore PDF documents of Renesas API
+r01an*.pdf
