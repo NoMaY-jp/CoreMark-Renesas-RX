@@ -15,7 +15,7 @@
 
 #elif defined(__ICCRX__)
 
-#define COMPILER_VERSION "ICCRX V4.14.1"
+#define COMPILER_VERSION "ICCRX V4.20.1"
 #define FLAGS_STR "-Ohs --no_size_constraints"
 
 #endif
