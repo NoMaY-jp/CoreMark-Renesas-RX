@@ -31,7 +31,7 @@
                 				
                 <option id="toolchain.version" value="v3.02.00"/>
                 				
-                <option id="toolchain.enable" value="false"/>
+                <option id="toolchain.enable" value="true"/>
                 			
             </storageModule>
             			
@@ -85,7 +85,7 @@
                                 								
                                 <option id="com.renesas.cdt.managedbuild.renesas.ccrx.common.option.doubleSize.628557799" name="Suppress to change double type and long double type as float type (-dbl_size)" superClass="com.renesas.cdt.managedbuild.renesas.ccrx.common.option.doubleSize" useByScannerDiscovery="false" value="false" valueType="boolean"/>
                                 								
-                                <option id="com.renesas.cdt.managedbuild.renesas.ccrx.common.option.cpu.64586069" name="CPU type (-cpu)" superClass="com.renesas.cdt.managedbuild.renesas.ccrx.common.option.cpu" value="com.renesas.cdt.managedbuild.renesas.ccrx.common.option.cpu.rx200" valueType="enumerated"/>
+                                <option id="com.renesas.cdt.managedbuild.renesas.ccrx.common.option.cpu.913510511" name="CPU type (-cpu)" superClass="com.renesas.cdt.managedbuild.renesas.ccrx.common.option.cpu" value="com.renesas.cdt.managedbuild.renesas.ccrx.common.option.cpu.rx200" valueType="enumerated"/>
                                 							
                             </tool>
                             							
